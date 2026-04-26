@@ -3,19 +3,19 @@ from logging.handlers import RotatingFileHandler
 
 LOG_FILE_NAME = "bot.log"
 PORT = '8080'
-OWNER_ID = 1234567890
+OWNER_ID = 7560349494
 MSG_EFFECT = 5046509860389126442
 
-# VPLink URL Shortener Configuration
-VPLINK_API_TOKEN = ""
-VPLINK_API_URL = "https://vplink.in/api"
+# AROLink URL Shortener Configuration
+AROLINK_API_TOKEN = "4134296f6ba51789996b73ae880bf798671b6d9b"
+AROLINK_API_URL = "https://arolink.com/api"
 
 # URL Shortener Providers Configuration
 URL_SHORTENERS = {
-    'vplink': {
-        'name': 'VPLink',
-        'api_url': 'https://vplink.in/api',
-        'api_token': VPLINK_API_TOKEN,
+    'arolink': {
+        'name': 'Arolink',
+        'api_url': 'https://arolink.com/api',
+        'api_token': AROLINK_API_TOKEN,
         'format': 'text',
         'active': True
     }
