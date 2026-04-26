@@ -1,22 +1,22 @@
 [
     {
         "session": "ses1",
-        "token": "BOT_TOKEN",
-        "api_id": "12345678",
-        "api_hash": "",
+        "token": "8661191108:AAGdHuMvIsd1MpeC85xG4MnHhs_A31gBmws",
+        "api_id": "34822566",
+        "api_hash": "3ab7815d50c6baec0e564742eee75b33",
         "workers": 8,
-        "db_uri": "mongodb+srv://Awakeners-bots-Powered-by",
-        "db_name": "Awakenersbots",
-        "fsubs": [],
-        "db": -1234567890,
+        "db_uri": "mongodb+srv://thilakff007:0U8T4Aiaoqmje2UD@shadow.vetq4tn.mongodb.net/?appName=Shadow",
+        "db_name": "thilakff007",
+        "fsubs": [https://t.me/+PcMDx0fXbMM5MTRl],[https://t.me/+BvH41O3xEuIzODU1],[https://t.me/+1sk7uT-SOxQxOThl],[https://t.me/+4OW0EkoozoVlNGU1], 
+        "db": -1003580590124,
         "auto_del": 300,
         "messages": {
-            "START": "<b><blockquote><b><blockquote>Moshi Moshi Senpai {mention}</blockquote></b>\n<b>I'm Akuma Sama a Filestore bot of @Anime_Mortals</b></blockquote>",
+            "START": "<b><blockquote><b><blockquote>Moshi Moshi Senpai {mention}</blockquote></b>\n<b>I'm Akuma Sama a Filestore bot of @AnimeWorld_07</b></blockquote>",
             "FSUB": "Hᴇʟʟᴏ Sᴇɴᴘᴀɪ {mention}\n\n<b>Yᴏᴜ Nᴇᴇᴅ Tᴏ Jᴏɪɴ Iɴ Mʏ Cʜᴀɴɴᴇʟs Tᴏ Gᴇᴛ Fɪʟᴇs</b>",
-            "ABOUT": "<b><blockquote expandable>╭───────────────⍟\n├➽ Dᴇᴠᴇʟᴏᴩᴇʀ : <a href=\"https://t.me/GPGMS0\"><b>GPG</b></a>\n├➽ Oᴡɴᴇʀ : <a href=\"https://t.me/GPGMS0\"><b>𝗚𝗣𝗚</b></a>\n├➽ Aɴɪᴍᴇ Iɴᴅᴇx : <a href=\"https://t.me/Anime_Mortals\"><b>Aɴɪᴍᴇ Mᴏʀᴛᴀʟs</b></a>\n├➽ Fɪɴɪsʜᴇᴅ Aɴɪᴍᴇ : <a href=\"https://t.me/Anime_Awakeners\"><b>Aɴɪᴍᴇ Aᴡᴀᴋᴇɴᴇʀs</b></a>\n├➽ Oɴɢᴏɪɴɢ Aɴɪᴍᴇ : <a href=\"https://t.me/Ongoing_Mortals\"><b>Oɴɢᴏɪɴɢ Mᴏʀᴛᴀʟ</b></a>\n├➽ Mᴀɴʜᴡᴀ / Mᴀɴɢᴀ : <a href=\"https://t.me/Manhwa_Mortals\"><b>Mᴀɴʜᴡᴀ Mᴏʀᴛᴀʟs</b></a>\n├➽ Nᴇᴛᴡᴏʀᴋ : <a href=\"https://t.me/The_Awakeners\"><b>Tʜᴇ Aᴡᴀᴋᴇɴᴇʀs</b></a>\n├➽ Rᴇǫ/Cʜᴀᴛ : <a href=\"https://t.me/Mortals_Realm\"><b>Mᴏʀᴛᴀʟs Rᴇᴀʟᴍ</b></a>\n╰───────────────⍟</blockquote></b>",
+            "ABOUT": "<b><blockquote expandable>╭───────────────⍟\n├➽ Dᴇᴠᴇʟᴏᴩᴇʀ : <a href=\"@Thilakff\"><b>GPG</b></a>\n├➽ Oᴡɴᴇʀ : <a href=\"@Thilakff\"><b>𝗚𝗣𝗚</b></a>\n├➽ Aɴɪᴍᴇ Iɴᴅᴇx : <a href=\"https://t.me/AnimeWorld_07\"><b>Aɴɪᴍᴇ World</b></a>\n├➽ Fɪɴɪsʜᴇᴅ Aɴɪᴍᴇ : <a href=\"https://t.me/AnimeWorld_07\"><b>Aɴɪᴍᴇ World</b></a>\n├➽ Oɴɢᴏɪɴɢ Aɴɪᴍᴇ : <a href=\"https://t.me/+PcMDx0fXbMM5MTRl\"><b>Oɴɢᴏɪɴɢ Mᴏʀᴛᴀʟ</b></a>\n├➽ Mᴀɴʜᴡᴀ / Mᴀɴɢᴀ : <a href=\"https://t.me/Manhwa_Mortals\"><b>Mᴀɴʜᴡᴀ Mᴏʀᴛᴀʟs</b></a>\n├➽ Nᴇᴛᴡᴏʀᴋ : <a href=\"https://t.me/AnimeWorld_07\"><b>AnimeWolrd_07</b></a>\n├➽ Rᴇǫ/Cʜᴀᴛ : <a href=\"https://t.me/+BvH41O3xEuIzODU1\"><b>Mᴏʀᴛᴀʟs Rᴇᴀʟᴍ</b></a>\n╰───────────────⍟</blockquote></b>",
             "REPLY": "<b><blockquote>❌𝗗𝗼𝗻'𝘁 𝘀𝗲𝗻𝗱 𝗺𝗲 𝗱𝗶𝗿𝗲𝗰𝘁 𝗺𝗲𝘀𝘀𝗮𝗴𝗲𝘀 𝗶𝗻 𝗱𝗺, 𝗱𝗼 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗮 𝗱𝗲𝗮𝘁𝗵 𝘄𝗶𝘀𝗵?</blockquote></b>",
-            "START_PHOTO": "",
-            "FSUB_PHOTO": ""
+            "START_PHOTO": "https://ibb.co/1JpjcCq3",
+            "FSUB_PHOTO": "https://ibb.co/vM8Jb1g"
         },
         "admins": [
             123456789,
