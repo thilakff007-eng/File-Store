@@ -4,7 +4,6 @@
 from aiohttp import web
 import asyncio
 import time
-from plugins import web_server
 
 from pyrogram import Client
 from pyrogram.enums import ParseMode
@@ -285,6 +284,8 @@ class Bot(Client):
 
 
 async def web_app():
+    from plugins import web_server   # ✅ ADD HERE
+
     app = web.AppRunner(await web_server())
     await app.setup()
     bind_address = "0.0.0.0"
